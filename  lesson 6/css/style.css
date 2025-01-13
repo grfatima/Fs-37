@@ -1,0 +1,27 @@
+body {
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0.5), rgba(23, 61, 122, 0.5)),
+    url(../image.jpeg) no-repeat;
+  background-size: cover;
+}
+
+.box-title {
+  color: white;
+  padding: 40px;
+  margin-top: 200px;
+}
+.box-decoration {
+  color: white;
+  font-size: large;
+  padding: 0px 40px;
+}
+.box-decoration1 {
+  color: white;
+  font-size: larger;
+  border-radius: 5px;
+  padding: 10px 20px;
+  display: inline-block;
+  background-color: orange;
+}
+.box-div1 {
+  margin-left: 40px;
+}

@@ -1,0 +1,61 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+body {
+  background: url(../image/image.png) no-repeat;
+  background-size: cover;
+}
+.navigation a {
+  color: white;
+}
+.navigation {
+  padding: 20px 70px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.logo-link {
+  font-size: 30px;
+  font-weight: bold;
+  letter-spacing: 5px;
+}
+.logo-span {
+  color: orange;
+  font-size: larger;
+}
+.links a {
+  font-size: large;
+  margin-left: 20px;
+  text-transform: uppercase;
+}
+.logo1-span {
+  color: orange;
+}
+.logo2-span {
+  color: rgb(42, 150, 204);
+}
+.slogan {
+  text-align: center;
+  margin: 150px auto;
+  width: 750px;
+  color: white;
+}
+.slogan-title {
+  font-size: 50px;
+}
+.slogan-description {
+  font-size: 25px;
+  text-align: justify;
+  margin: 10px 0;
+}
+.slogan-link {
+  background-color: white;
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 20px;
+  border-radius: 30px;
+  color: black;
+}

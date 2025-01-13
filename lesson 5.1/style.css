@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: o;
+  box-sizing: border-box;
+}
+.title {
+  background-color: rgb(221, 6, 236);
+  color: white;
+  text-align: center;
+  padding: 30px;
+  height: 100px;
+}
+.boxes {
+  display: flex;
+  width: 1000px;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: space-between;
+  margin: 20px auto;
+}
+.box {
+  background-color: aqua;
+  font-size: larger;
+  width: 300px;
+}
+.box-description {
+  font-size: larger;
+  padding: 10px;
+}

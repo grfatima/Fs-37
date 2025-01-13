@@ -1,0 +1,45 @@
+h1 {
+  color: rgb(233, 109, 171);
+  text-align: center;
+  font-size: 40px;
+  font-weight: 100;
+  border: 2px solid palevioletred;
+  border-radius: 40px;
+  width: 200;
+  margin-left: 45%;
+  padding: 5px;
+}
+p {
+  color: rgb(238, 111, 174);
+  background-color: rgba(146, 223, 249, 0.688);
+  text-align: justify;
+  font-size: 20px;
+  font-weight: lighter;
+  border: 2px solid palevioletred;
+  border-radius: 40px;
+  margin: 20px;
+  padding: 10px;
+}
+body {
+  background-color: rgb(200, 225, 246);
+}
+img {
+  margin: 20px;
+  padding: 10px;
+}
+
+/*
+border(top,right,left,bottom)
+border-radius cercive
+tipi-solid,dotted,dashed,double
+EMMET-qisa yollar p>b>i
+CSS-Cascading Style Sheets
+HTML-Hyper Text Markup Language
+CSS sintaksisi key:value;
+1.Inline(atribut olaraq)
+2.Internal(headin daxilinde)
+3.External(yeni faylda)
+text-decoration (overline,underline,line-through)
+Tipleri-wavy,dot,dashed
+Mesafe 2 curdur daxili(padding) ve xarici(margin)
+*/
